@@ -1,1 +1,11 @@
-remote_theme: pixyll
+title: The Pivot
+email: roelofs@cs.berkeley.edu
+author: Rebecca Roelofs
+description: "My blog"
+baseurl: /pixyll
+url: "http:rolloff.github.io"
+
+# Build settings
+markdown: kramdown
+permalink: pretty
+paginate: 3
