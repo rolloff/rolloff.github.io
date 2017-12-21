@@ -6,5 +6,4 @@ tags: about
 ---
 
 I am a CS Ph.D. student at UC Berkeley advised by Benjamin Recht and Jim Demmel.
-I research optimization algorithms for deep learning. When I am not wrestling
-with torch builds, I play in a Scottish fiddle band in Berkeley.
+I research optimization algorithms for deep learning.
