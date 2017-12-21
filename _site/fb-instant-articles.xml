@@ -9,6 +9,36 @@
     
         
             <item>
+                <title>Hello, Blog</title>
+                <link>http://rolloff.github.io/first/2017/12/20/welcome/</link>
+                <content:encoded>
+                    <![CDATA[
+                    <blockquote>
+  <p>
+    Perfection is achieved, not when there is nothing more to add, but when there is nothing left to take away.
+  </p>
+  <footer><cite title="Antoine de Saint-Exupéry">Antoine de Saint-Exupéry</cite></footer>
+</blockquote>
+
+<h2 id="starting-out">Starting Out</h2>
+
+<p>Checkout the <a href="https://github.com/johnotander/pixyll">Github repository</a> to download it, request a feature, or report a bug.</p>
+
+                    ]]>
+                </content:encoded>
+                <guid isPermaLink="false">/first/2017/12/20/welcome/</guid>
+                <description>
+                    
+                    This is my first blog post.
+                    
+                </description>
+                <pubDate>Wed, 20 Dec 2017 10:31:19 -0500</pubDate>
+                <author>Rebecca Roelofs</author>
+            </item>
+        
+    
+        
+            <item>
                 <title>Announcing Version 2.0</title>
                 <link>http://rolloff.github.io/jekyll/pixyll/2015/07/11/announcing-pixyll-version-2/</link>
                 <content:encoded>
