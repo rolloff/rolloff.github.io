@@ -1,0 +1,19 @@
+---
+layout:     post
+title:      Hello, Blog
+date:       2017-12-20 15:31:19
+summary:    This is my first blog post.
+categories: first
+---
+
+
+<blockquote>
+  <p>
+    Perfection is achieved, not when there is nothing more to add, but when there is nothing left to take away.
+  </p>
+  <footer><cite title="Antoine de Saint-Exupéry">Antoine de Saint-Exupéry</cite></footer>
+</blockquote>
+
+## Starting Out
+
+Checkout the [Github repository](https://github.com/johnotander/pixyll) to download it, request a feature, or report a bug.
